@@ -8,7 +8,7 @@ No longer do you need to go through the manual process of navigating to your bro
   
 
 ##  Roadmap
-Version 1.0.0 - Highlight code and search in google. ✅
-Version 1.5.0 - Add sufficient unit testing in to the codebase for ensuring the functionality works as intended.
-Version 2.0.0 - Highlight code and search in youtube.
-Version 3.0.0 - Add in some logic to perform more intelligence based searches to find the right results.
+Version 1.0.0 - Highlight code and search in google. ✅ . 
+Version 1.5.0 - Add sufficient unit testing in to the codebase for ensuring the functionality works as intended.  
+Version 2.0.0 - Highlight code and search in youtube.  
+Version 3.0.0 - Add in some logic to perform more intelligence based searches to find the right results.  
